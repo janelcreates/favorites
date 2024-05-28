@@ -1,0 +1,25 @@
+body {
+    background-image: url("https://i.pinimg.com/736x/16/90/a5/1690a596b6baa3b62c88e5c2365651a6.jpg")
+}
+
+h1 {
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.one {
+    background-color:aliceblue;
+    font-family:Arial, Helvetica, sans-serif;
+    color:blueviolet;
+}
+
+.two {
+    background-color: aliceblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:blue;
+}
+
+#three {
+    background-color: black;
+}
